@@ -92,3 +92,6 @@ Use this screen when your plant collection grows large and you need to look up a
 
 * **Save Your Progress:** Always click **Download Plants CSV** before closing your browser session to ensure your data is backed up.
 * **Keep Dates Accurate:** Keeping `last_care_date` up-to-date in **Log Care** ensures your **View Schedule** alerts remain accurate.
+
+Demo Video:
+https://drive.google.com/file/d/1V3OTgZmxgW6pDci5J4LxKD742wXkEmbp/view?usp=sharing
