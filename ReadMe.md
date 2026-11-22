@@ -95,3 +95,6 @@ Use this screen when your plant collection grows large and you need to look up a
 
 Demo Video:
 https://drive.google.com/file/d/1V3OTgZmxgW6pDci5J4LxKD742wXkEmbp/view?usp=sharing
+
+Deployment Link:
+https://plant-care--ahmed-yusuf-pi5ocwyugrk2uoaad7ut76.streamlit.app/
