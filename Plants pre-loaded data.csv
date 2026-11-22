@@ -1,0 +1,11 @@
+plant_name,location,date_acquired,watering_freq_days,sunlight_needs,last_activity,last_care_date,photo_name
+Monstera Deliciosa,Living Room Window,15/11/2026,7,Partial Shade,Acquired,15/11/2026,monstera_deliciosa.jpg
+Snake Plant,Bedroom Corner,05/11/2026,14,Low Light,Acquired,05/11/2026,snake_plant.jpg
+Fiddle Leaf Fig,Living Room,12/10/2026,7,Partial Shade,Watering,16/11/2026,fiddle_leaf_fig.jpg
+String of Pearls,Kitchen Windowsill,01/11/2026,14,Full Sun,Watering,14/11/2026,string_of_pearls.jpg
+Venus Flytrap,Sunny Balcony,18/11/2026,2,Full Sun,Watering,20/11/2026,venus_flytrap.jpg
+Boston Fern,Bathroom Shelf,10/11/2026,3,Partial Shade,Misting,18/11/2026,boston_fern.jpg
+ZZ Plant,Hallway Table,20/09/2026,14,Low Light,Watering,12/11/2026,zz_plant.jpg
+Aloe Vera,Balcony Shelf,25/10/2026,10,Full Sun,Watering,19/11/2026,aloe_vera.jpg
+Peace Lily,Study Desk,18/11/2026,4,Partial Shade,Watering,18/11/2026,peace_lily.jpg
+Bird of Paradise,Patio Door,30/10/2026,7,Full Sun,Fertilizing,17/11/2026,bird_of_paradise.jpg
